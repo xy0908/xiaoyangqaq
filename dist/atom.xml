@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>小羊的小窝</title>
+    <updated>2023-06-09T08:23:14.451Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>小羊QAQ</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/feed.atom"/>
+    <subtitle>秉忠贞之志 守谦退之节</subtitle>
+    <logo>https://p3-passport.byteimg.com/img/user-avatar/c09ca588a59b28091ac4ff2a7320fbec~100x100.awebp</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © 小羊QAQ</rights>
+    <entry>
+        <title type="html"><![CDATA[vite配置文件处理细节]]></title>
+        <id>https://valaxy.site/posts/vite 配置文件处理细节</id>
+        <link href="https://valaxy.site/posts/vite 配置文件处理细节"/>
+        <updated>2023-06-08T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>vite 配置文件处理细节</h4>
+<ol>
+<li>vite配置文件语法提示
+<ol>
+<li>如果使用的是webstorm,那么你可以得到很好的语法提示</li>
+<li>如果你使用的是vscode或者其他的编译器</li>
+</ol>
+</li>
+</ol>
+]]></content>
+        <author>
+            <name>小羊QAQ</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在vite中处理css]]></title>
+        <id>https://valaxy.site/posts/vite中处理css</id>
+        <link href="https://valaxy.site/posts/vite中处理css"/>
+        <updated>2023-06-07T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>vite中处理css</h4>
+<blockquote>
+<p>vite天生就支持对css的直接处理</p>
+<blockquote>
+<ol>
+<li>vite读取到 main.js 中引用了 index.css</li>
+<li>使用fs模块去读取 index.</li>
+</ol>
+</blockquote>
+</blockquote>
+]]></content>
+        <author>
+            <name>小羊QAQ</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vite-plugin-pages插件的使用]]></title>
+        <id>https://valaxy.site/posts/vite-plugin-pages插件的使用</id>
+        <link href="https://valaxy.site/posts/vite-plugin-pages插件的使用"/>
+        <updated>2023-06-06T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>vite-plugin-pages插件的使用</h4>
+<h4>1.下载插件</h4>
+<pre><code class="language-js">// 我使用的是pnpm
+pnpm install vite-plugin-pages
+pnpm in</code></pre>
+]]></content>
+        <author>
+            <name>小羊QAQ</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-06T16:00:00.000Z</published>
+    </entry>
+</feed>

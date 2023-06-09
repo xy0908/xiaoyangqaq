@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "小羊的小窝",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "秉忠贞之志 守谦退之节",
+    "icon": "https://p3-passport.byteimg.com/img/user-avatar/c09ca588a59b28091ac4ff2a7320fbec~100x100.awebp",
+    "author": {
+        "name": "小羊QAQ",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h4>vite 配置文件处理细节</h4>\n<ol>\n<li>vite配置文件语法提示\n<ol>\n<li>如果使用的是webstorm,那么你可以得到很好的语法提示</li>\n<li>如果你使用的是vscode或者其他的编译器</li>\n</ol>\n</li>\n</ol>\n",
+            "url": "https://valaxy.site/posts/vite 配置文件处理细节",
+            "title": "vite配置文件处理细节",
+            "date_modified": "2023-06-08T16:00:00.000Z",
+            "date_published": "2023-06-08T16:00:00.000Z",
+            "author": {
+                "name": "小羊QAQ",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h4>vite中处理css</h4>\n<blockquote>\n<p>vite天生就支持对css的直接处理</p>\n<blockquote>\n<ol>\n<li>vite读取到 main.js 中引用了 index.css</li>\n<li>使用fs模块去读取 index.</li>\n</ol>\n</blockquote>\n</blockquote>\n",
+            "url": "https://valaxy.site/posts/vite中处理css",
+            "title": "在vite中处理css",
+            "date_modified": "2023-06-07T16:00:00.000Z",
+            "date_published": "2023-06-07T16:00:00.000Z",
+            "author": {
+                "name": "小羊QAQ",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h4>vite-plugin-pages插件的使用</h4>\n<h4>1.下载插件</h4>\n<pre><code class=\"language-js\">// 我使用的是pnpm\npnpm install vite-plugin-pages\npnpm in</code></pre>\n",
+            "url": "https://valaxy.site/posts/vite-plugin-pages插件的使用",
+            "title": "vite-plugin-pages插件的使用",
+            "date_modified": "2023-06-06T16:00:00.000Z",
+            "date_published": "2023-06-06T16:00:00.000Z",
+            "author": {
+                "name": "小羊QAQ",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
